@@ -17,7 +17,7 @@ export function CreatAdModal() {
   const [useVoiceChannel, setUseVoiceChannel] = useState(false);
 
   useEffect(() => {
-    axios("http://localhost:3333/games").then((response) => {
+    axios('https://nlw-esports.fly.dev/games').then((response) => {
       setGames(response.data);
     });
   }, []);
