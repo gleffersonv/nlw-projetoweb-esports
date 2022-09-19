@@ -32,7 +32,7 @@ export function CreatAdModal() {
       return;
     }
     try{
-      await axios.post(`https://www.gleffersonvicente.com.br/esports/games/${data.game}/ads`, {
+      await axios.post(`https://main.d3issn1rjk6gq3.amplifyapp.com/games${data.game}/ads`, {
         name: data.name,
         yearsPlaying: Number(data.yearsPlaying),
         discord: data.discord,
