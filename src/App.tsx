@@ -22,7 +22,7 @@ function App() {
   const [games, setGames] = useState<Game[]>([]);
 
   useEffect(() => {
-    axios("https://www.gleffersonvicente.com.br/esports/games/").then((response) => {
+    axios("https://main.d3issn1rjk6gq3.amplifyapp.com/games").then((response) => {
       setGames(response.data);
     });
   }, []);
