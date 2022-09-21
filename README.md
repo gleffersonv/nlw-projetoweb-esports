@@ -34,13 +34,13 @@ It is a platform to find the perfect partner to play your favorite game together
 
 
 ## Stack and tools
-* [Node.js](https://nodejs.org/en/)
-* [Prisma](https://www.prisma.io/)
-* [React](https://reactjs.org/)
-* [React Native](https://reactnative.dev/)
-* [Expo](https://expo.dev/)
-* [Figma](https://www.figma.com/)
-* [Radix UI](https://www.radix-ui.com/)
+* Node.js
+* Prisma
+* React.js
+* TypeScript
+* TailWindCSS
+* Radix UI
+* Vite
 
 
 ## Quickstart
