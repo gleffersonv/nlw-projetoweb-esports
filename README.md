@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Live Preview: <a ">Esports</a>
+Live Preview: Esports
 
 ## 🎨 Inspiração:
 
