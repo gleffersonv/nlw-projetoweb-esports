@@ -55,8 +55,10 @@ O projeto eSports é uma plataforma revolucionária de comunicação para gamers
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
+- React.JS
+- TypeScript
+- Node.JS
+- Prisma
 
 ## 🚧 Projeto
 
