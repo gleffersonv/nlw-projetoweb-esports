@@ -64,7 +64,7 @@ Live Preview: <a href="http://gleffersonvicente.com.br/wireframe/">Wireframe</a>
 
 ## 🎨 Inspiração:
 
-Figma : <a href="https://www.figma.com/file/fzNcBif0dOCXBXQMweMLwS/Wireframe-(Copy)?node-id=0%3A1">Wireframe</a>
+Figma : <a href="[https://www.figma.com/file/fzNcBif0dOCXBXQMweMLwS/Wireframe-(Copy)?node-id=0%3A1](https://www.figma.com/file/acZHD3tqMWXAqqMGqdJ0oE/NLW-eSports-(Community)-(Copy)?type=design&node-id=6-23&mode=design&t=pZbh1NEEgVMxzSt0-0)">Esports</a>
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
