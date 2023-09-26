@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Live Preview: <a href="https://chimerical-brioche-e47d77.netlify.app/">Esports</a>
+Live Preview: <a ">Esports</a>
 
 ## 🎨 Inspiração:
 
