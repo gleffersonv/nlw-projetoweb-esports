@@ -8,9 +8,9 @@
   [Preview NLW Esports](https://chimerical-brioche-e47d77.netlify.app/)
 
 <hr>
-
+  [Preview NLW Esports](https://chimerical-brioche-e47d77.netlify.app/)
  - [Descrição](#descrição)
-  - [Ferramentas](#ferramentas)
+ - [Ferramentas](#ferramentas)
 
 <hr>
 <br>
