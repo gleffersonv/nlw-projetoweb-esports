@@ -1,20 +1,5 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/62262162/191147968-710e4c3c-6082-4aad-949e-ba49b06ef7f8.svg" alt="Next Level Week Esports Logo"/></p>
-
-<br>
-
-
- [Preview NLW Esports](https://chimerical-brioche-e47d77.netlify.app/)
-
-
-<hr>
- 
- - [Descrição](#descrição)
- - [Ferramentas](#ferramentas)
-
-<hr>
-<br>
-
 <br>
 
 ## Descrição
