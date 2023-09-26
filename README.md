@@ -16,13 +16,13 @@ The web client is deployed on Netlify here:
 <hr>
 <br>
 
-  - [Description](#description)
-  - [Stack and tools](#stack-and-tools)
+  - [Descrição](#descrição)
+  - [Ferramentas](#ferramentas)
   - [Quickstart](#quickstart)
 
 <br>
 
-## Description
+## Descrição
 
 The project is called *Find your Duo*.
 It is a platform to find the perfect partner to play your favorite game together, by connecting your Twitch.tv account.
@@ -33,7 +33,7 @@ It is a platform to find the perfect partner to play your favorite game together
 <img src="https://user-images.githubusercontent.com/62262162/191152701-f28bae8f-ed88-40cf-ae5e-78ee190be77f.png" alt="Next Level Week Esports Logo"/></p>
 
 
-## Stack and tools
+## ferramentas
 * Node.js
 * Prisma
 * React.js
@@ -41,31 +41,5 @@ It is a platform to find the perfect partner to play your favorite game together
 * TailWindCSS
 * Radix UI
 * Vite
-
-
-## Quickstart
-
-### Server
-
-First, create a new ``.env`` file on the root directory, using the `.env.example` template as base.
-
-Then, to create the local db run:
-```sh
-$ npm install
-$ npm run db:migrate
-```
-
-After that, to start the server, run:
-```sh
-$ npm run dev
-```
-
-### Web
-
-To run the local Vite web client:
-```sh
-$ npm install
-$ npm run dev
-```
 
 
