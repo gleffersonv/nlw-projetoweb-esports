@@ -3,9 +3,7 @@
 
 <br>
 
-<p align="center">
-
-  [Preview NLW Esports](https://chimerical-brioche-e47d77.netlify.app/)</p>
+<p align="center"> [Preview NLW Esports](https://chimerical-brioche-e47d77.netlify.app/)</p>
 
 <hr>
  
