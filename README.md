@@ -5,6 +5,7 @@
 ## Descrição
 
 O projeto eSports é uma plataforma revolucionária de comunicação para gamers, permitindo a conexão entre jogadores independentemente da localização geográfica. Os usuários podem cadastrar seus perfis, incluindo nickname, jogo preferido e disponibilidade de horários. Desenvolvido com tecnologias de ponta, como React.js, TypeScript, Node.js e Prisma, o projeto proporciona uma experiência fluida e eficiente. O layout das telas foi concebido pela equipe da Rocketseat, utilizando a ferramenta Figma para design de interfaces. Meu foco e expertise estão na versão web do projeto, onde busquei aprimorar minhas habilidades.
+<br>
 
 <p align="center">
 
@@ -21,9 +22,9 @@ O projeto eSports é uma plataforma revolucionária de comunicação para gamers
 <p align="center">
  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=3793E8&labelColor=06187B" alt="License">
   
-  <img src="https://img.shields.io/github/forks/gleffersonv/projeto-Wireframe?label=forks&message=MIT&color=3793E8&labelColor=06187B" alt="Forks">
+  <img src="https://img.shields.io/github/forks/gleffersonv/projeto-esports?label=forks&message=MIT&color=3793E8&labelColor=06187B" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/gleffersonv/projeto-Wireframe?label=stars&message=MIT&color=3793E8&labelColor=06187B " alt="Stars">
+  <img src="https://img.shields.io/github/stars/gleffersonv/projeto-esports?label=stars&message=MIT&color=3793E8&labelColor=06187B " alt="Stars">
 </p>
 
 <p align="center">
