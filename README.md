@@ -5,7 +5,8 @@
 ## Descrição
 
 O projeto eSports é uma plataforma revolucionária de comunicação para gamers, permitindo a conexão entre jogadores independentemente da localização geográfica. Os usuários podem cadastrar seus perfis, incluindo nickname, jogo preferido e disponibilidade de horários. Desenvolvido com tecnologias de ponta, como React.js, TypeScript, Node.js e Prisma, o projeto proporciona uma experiência fluida e eficiente. O layout das telas foi concebido pela equipe da Rocketseat, utilizando a ferramenta Figma para design de interfaces. Meu foco e expertise estão na versão web do projeto, onde busquei aprimorar minhas habilidades.
-<br>
+
+<br><br>
 
 <p align="center">
 
