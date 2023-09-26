@@ -23,8 +23,8 @@ O projeto eSports é uma plataforma revolucionária de comunicação para gamers
 
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/62262162/191152699-2bba0fc6-f7b4-4bd1-ab17-828d5b284929.png" alt="Next Level Week Esports Logo"/></p>
-<img src="https://user-images.githubusercontent.com/62262162/191152701-f28bae8f-ed88-40cf-ae5e-78ee190be77f.png" alt="Next Level Week Esports Logo"/></p>
+<img src="https://user-images.githubusercontent.com/62262162/191152699-2bba0fc6-f7b4-4bd1-ab17-828d5b284929.png" alt="Next Level Week Esports Logo"/>
+<img src="https://user-images.githubusercontent.com/62262162/191152701-f28bae8f-ed88-40cf-ae5e-78ee190be77f.png" alt="Next Level Week Esports Logo"/>
 </p>
 
 <p align="center">
